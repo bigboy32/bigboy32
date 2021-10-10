@@ -6,3 +6,4 @@
 - 📫 How to reach me: ananthahalmuttur@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: .......... (I don't have one xD)
+- 🧑‍💻 I mainly use Python & dart
